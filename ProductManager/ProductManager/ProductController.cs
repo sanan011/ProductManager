@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProductManager;
+using System;
 
 namespace ProductManager
 {
@@ -31,8 +32,9 @@ namespace ProductManager
             product.UpdateProduct(index, brand, model, price, quantity, category);
         }
 
-        // Additional methods for handling user interaction can be added here.
+        public void UpdateProductByProperty(int productId, int propertyId, string newValue)
+        {
+            product.UpdateProductByProperty(productId, propertyId, newValue);
+        }
     }
 }
-
-

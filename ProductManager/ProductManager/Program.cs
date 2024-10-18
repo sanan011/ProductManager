@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProductManager;
+using System;
 
 namespace ProductManager
 {
@@ -13,6 +14,14 @@ namespace ProductManager
 
             controller.ShowAllProducts();
 
+            controller.RemoveProduct(1);
+            controller.ShowAllProducts();
+
+            controller.UpdateProduct(2, "Lenovo", "Legion Pro", 3200, 6, ProductCategory.PC);
+            controller.ShowAllProducts();
+
+            controller.UpdateProductByProperty(2, 1, "Asus");
+            controller.ShowAllProducts();
 
             Console.ReadLine();
         }
