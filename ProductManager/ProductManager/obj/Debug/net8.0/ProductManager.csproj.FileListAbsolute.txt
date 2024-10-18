@@ -1,0 +1,15 @@
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\bin\Debug\net8.0\ProductManager.exe
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\bin\Debug\net8.0\ProductManager.deps.json
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\bin\Debug\net8.0\ProductManager.runtimeconfig.json
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\bin\Debug\net8.0\ProductManager.dll
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\bin\Debug\net8.0\ProductManager.pdb
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\obj\Debug\net8.0\ProductManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\obj\Debug\net8.0\ProductManager.AssemblyInfoInputs.cache
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\obj\Debug\net8.0\ProductManager.AssemblyInfo.cs
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\obj\Debug\net8.0\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\obj\Debug\net8.0\ProductManager.sourcelink.json
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\obj\Debug\net8.0\ProductManager.dll
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\obj\Debug\net8.0\refint\ProductManager.dll
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\obj\Debug\net8.0\ProductManager.pdb
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\obj\Debug\net8.0\ProductManager.genruntimeconfig.cache
+C:\Users\AzEduNet\source\repos\ProductManager\ProductManager\obj\Debug\net8.0\ref\ProductManager.dll
